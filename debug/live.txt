@@ -1,0 +1,15 @@
+the amount yankable1 is=-1
+the amount yankable is=3648080
+the amount yankable is=3648080
+last_size =3649080 94
+the amount yank_req is=1413290 1413290
+the amount yankable1 is=-1
+the amount yankable is=3648080
+the amount yankable is=3648080
+last_size =3649080 94
+the amount yank_req is=1413290 1413290
+the amount yankable1 is=-1
+the amount yankable is=2150096
+the amount yankable is=2150096
+last_size =2151096 94
+the amount yank_req is=1239390 1239390

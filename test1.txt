@@ -1,0 +1,14 @@
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 1 0xffffffffffffffff
+stats1 0 0x400590
+stats1 0 0x400590
+stats1 0 0x400590

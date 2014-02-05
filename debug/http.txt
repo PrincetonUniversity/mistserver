@@ -1,0 +1,1221 @@
+Created new connection 
+yank request locking send
+amount =1007
+amount =0
+sent_idx = 1i =0
+I need = 0
+from the socket it's yanked = 0 Sent back 0
+yank data is set to 3648080
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+asked for yank -1
+Created new connection 
+yank request locking send
+amount =1007
+amount =0
+sent_idx = 1i =0
+I need = 0
+from the socket it's yanked = 0 Sent back 0
+yank data is set to 3648080
+asked for yank 1413290
+asked for yank 1413290
+pending to chunkify is 2233790
+Created new connection 
+yank request locking send
+amount =1007
+amount =0
+sent_idx = 1i =0
+I need = 0
+from the socket it's yanked = 0 Sent back 0
+yank data is set to 2150096
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 1239390
+asked for yank 1239390
+pending to chunkify is 909706
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =348708
+amount =284130
+sent_idx = 480i =197
+I need = 283974
+from the socket it's yanked = 284130 Sent back 156
+yank data is set to 1953096
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 1239390
+asked for yank 1239390
+pending to chunkify is 712706
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =338331
+amount =326747
+sent_idx = 405i =80
+I need = 326268
+from the socket it's yanked = 326747 Sent back 479
+yank data is set to 2070096
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 1239390
+asked for yank 1239390
+pending to chunkify is 829706
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =326747
+amount =261587
+sent_idx = 405i =145
+I need = 260813
+from the socket it's yanked = 261587 Sent back 774
+yank data is set to 2365492
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 2269630
+asked for yank 2269630
+pending to chunkify is 94862
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =343411
+amount =326035
+sent_idx = 469i =145
+I need = 325261
+from the socket it's yanked = 326035 Sent back 774
+yank data is set to 2365492
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 2269630
+asked for yank 2269630
+pending to chunkify is 94862
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =77629
+amount =66045
+sent_idx = 195i =129
+I need = 65455
+from the socket it's yanked = 66045 Sent back 590
+yank data is set to 3892824
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 3111118
+asked for yank 3111118
+pending to chunkify is 780706
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =281064
+amount =215904
+sent_idx = 328i =113
+I need = 215498
+from the socket it's yanked = 215904 Sent back 406
+yank data is set to 4551032
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 4123310
+asked for yank 4123310
+pending to chunkify is 426722
+yank request locking send
+amount =303541
+amount =238381
+sent_idx = 323i =86
+I need = 237652
+from the socket it's yanked = 238381 Sent back 729
+yank data is set to 8059228
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 6789902
+asked for yank 6789902
+pending to chunkify is 1268326
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =301336
+amount =236176
+sent_idx = 357i =122
+I need = 235638
+from the socket it's yanked = 236176 Sent back 538
+yank data is set to 4542032
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 4123310
+asked for yank 4123310
+pending to chunkify is 417722
+yank request locking send
+amount =377052
+amount =311892
+sent_idx = 396i =86
+I need = 311163
+from the socket it's yanked = 311892 Sent back 729
+yank data is set to 8059228
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 6789902
+asked for yank 6789902
+pending to chunkify is 1268326
+Created new connection 
+Created new connection 
+yank request locking send
+amount =338095
+amount =272935
+sent_idx = 397i =125
+I need = 272897
+from the socket it's yanked = 272935 Sent back 38
+yank data is set to 4539032
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 4123310
+asked for yank 4123310
+pending to chunkify is 414722
+yank request locking send
+amount =301086
+amount =235926
+sent_idx = 322i =87
+I need = 235638
+from the socket it's yanked = 235926 Sent back 288
+yank data is set to 8058228
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 6789902
+asked for yank 6789902
+pending to chunkify is 1267326
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =701535
+amount =652303
+sent_idx = 793i =145
+I need = 651529
+from the socket it's yanked = 652303 Sent back 774
+yank data is set to 3876824
+asked for yank 3111118
+asked for yank 3111118
+pending to chunkify is 764706
+yank request locking send
+amount =702858
+amount =652178
+sent_idx = 790i =142
+I need = 651529
+from the socket it's yanked = 652178 Sent back 649
+yank data is set to 7234496
+asked for yank 7173422
+asked for yank 7173422
+pending to chunkify is 60074
+yank request locking send
+amount =701535
+amount =652303
+sent_idx = 793i =145
+I need = 651529
+from the socket it's yanked = 652303 Sent back 774
+yank data is set to 11855168
+asked for yank 11406429
+asked for yank 11406429
+pending to chunkify is 447739
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =721807
+amount =717463
+sent_idx = 793i =80
+I need = 716984
+from the socket it's yanked = 717463 Sent back 479
+yank data is set to 3941824
+asked for yank 0
+asked for yank 3111118
+asked for yank 3111118
+pending to chunkify is 829706
+yank request locking send
+amount =721807
+amount =717463
+sent_idx = 793i =80
+I need = 716984
+from the socket it's yanked = 717463 Sent back 479
+yank data is set to 7296496
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 7173422
+asked for yank 7173422
+pending to chunkify is 122074
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =260864
+amount =195704
+sent_idx = 712i =517
+I need = 195358
+from the socket it's yanked = 195704 Sent back 346
+yank data is set to 3527948
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 3130858
+asked for yank 3130858
+pending to chunkify is 396090
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =167974
+amount =136118
+sent_idx = 394i =258
+I need = 135945
+from the socket it's yanked = 136118 Sent back 173
+yank data is set to 4568652
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 4527510
+asked for yank 4527510
+pending to chunkify is 40142
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =120357
+amount =65333
+sent_idx = 259i =194
+I need = 64448
+from the socket it's yanked = 65333 Sent back 885
+yank data is set to 3850948
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 3740918
+asked for yank 3740918
+pending to chunkify is 109030
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =649265
+amount =587001
+sent_idx = 2087i =1504
+I need = 586074
+from the socket it's yanked = 587001 Sent back 927
+yank data is set to 2517824
+asked for yank 2313246
+asked for yank 2313246
+pending to chunkify is 203578
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =77629
+amount =66045
+sent_idx = 195i =129
+I need = 65455
+from the socket it's yanked = 66045 Sent back 590
+yank data is set to 4697652
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 4629782
+asked for yank 4629782
+pending to chunkify is 66870
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =699394
+amount =651610
+sent_idx = 1676i =1028
+I need = 651529
+from the socket it's yanked = 651610 Sent back 81
+yank data is set to 3636032
+asked for yank 2767454
+asked for yank 2767454
+pending to chunkify is 867578
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =4117345
+amount =4060873
+sent_idx = 4175i =142
+I need = 4060224
+from the socket it's yanked = 4060873 Sent back 649
+yank data is set to 4522032
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 4123310
+asked for yank 4123310
+pending to chunkify is 397722
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =4099514
+amount =4040146
+sent_idx = 4222i =209
+I need = 4040084
+from the socket it's yanked = 4040146 Sent back 62
+yank data is set to 4056284
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 3903350
+asked for yank 3903350
+pending to chunkify is 151934
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =562527
+amount =521983
+sent_idx = 793i =274
+I need = 521626
+from the socket it's yanked = 521983 Sent back 357
+yank data is set to 4390032
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 4123310
+asked for yank 4123310
+pending to chunkify is 265722
+Created new connection 
+Created new connection 
+yank request locking send
+amount =3755593
+amount =3709257
+sent_idx = 4023i =339
+I need = 3708605
+from the socket it's yanked = 3709257 Sent back 652
+yank data is set to 3682824
+asked for yank 0
+asked for yank 3111118
+asked for yank 3111118
+pending to chunkify is 570706
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =4133977
+amount =4084745
+sent_idx = 4267i =209
+I need = 4084683
+from the socket it's yanked = 4084745 Sent back 62
+yank data is set to 4056284
+asked for yank 0
+asked for yank 3903350
+asked for yank 3903350
+pending to chunkify is 151934
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+Created new connection 
+yank request locking send
+amount =3985961
+amount =3974969
+sent_idx = 4666i =717
+I need = 3974667
+from the socket it's yanked = 3974969 Sent back 302
+yank data is set to 3947032
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 2767454
+asked for yank 2767454
+pending to chunkify is 1178578
+Created new connection 
+Created new connection 
+yank request locking send
+amount =3244001
+amount =3200033
+sent_idx = 4666i =1487
+I need = 3199277
+from the socket it's yanked = 3200033 Sent back 756
+yank data is set to 3177032
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 0
+asked for yank 2767454
+asked for yank 2767454
+pending to chunkify is 408578
+Created new connection 
+yank request locking send
+amount =4081111
+amount =4068745
+sent_idx = 4181i =140
+I need = 4068280
+from the socket it's yanked = 4068745 Sent back 465
+yank data is set to 4524032
+asked for yank 0
+asked for yank 4123310
+asked for yank 4123310
+pending to chunkify is 399722
+Created new connection 
+Created new connection 
+Created new connection 
